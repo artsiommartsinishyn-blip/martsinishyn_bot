@@ -1,3 +1,4 @@
+import os
 from telegram import Bot
 import asyncio
 import random
@@ -5,7 +6,7 @@ import schedule
 import time
 from datetime import datetime
 
-TOKEN = "8741921170:AAH3Vik3Oykj3AXl3yI6efXQKie4aHbwdNE"
+TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = 476103207
 
 bot = Bot(token=TOKEN)
