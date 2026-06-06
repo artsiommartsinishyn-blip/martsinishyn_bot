@@ -1,0 +1,298 @@
+{
+  "Daily Conversation": [
+    {"en":"How's it going?","ru":"Как дела?"},
+    {"en":"What's up?","ru":"Что нового?"},
+    {"en":"No worries.","ru":"Не переживай."},
+    {"en":"Sounds good.","ru":"Звучит хорошо."},
+    {"en":"My bad.","ru":"Моя ошибка."},
+    {"en":"Hang on a second.","ru":"Подожди секунду."},
+    {"en":"You got it.","ru":"Без проблем."},
+    {"en":"I'm just kidding.","ru":"Я шучу."},
+    {"en":"That makes sense.","ru":"Это логично."},
+    {"en":"I appreciate it.","ru":"Я это ценю."},
+    {"en":"Good for you.","ru":"Рад за тебя."},
+    {"en":"I'm not sure.","ru":"Я не уверен."},
+    {"en":"It's up to you.","ru":"Решать тебе."},
+    {"en":"Take it easy.","ru":"Не напрягайся."},
+    {"en":"See you around.","ru":"Увидимся."},
+    {"en":"Give me a call.","ru":"Позвони мне."},
+    {"en":"I'm all set.","ru":"У меня всё готово."},
+    {"en":"Let's go.","ru":"Пошли."},
+    {"en":"I'm good.","ru":"У меня всё хорошо."},
+    {"en":"You never know.","ru":"Никогда не знаешь."}
+  ],
+
+  "Work": [
+    {"en":"I'll take care of it.","ru":"Я этим займусь."},
+    {"en":"Let me check.","ru":"Дай проверить."},
+    {"en":"I'm on my way.","ru":"Я уже еду."},
+    {"en":"I'll get back to you.","ru":"Я позже отвечу."},
+    {"en":"I'm running late.","ru":"Я опаздываю."},
+    {"en":"Can you help me with this?","ru":"Можешь помочь с этим?"},
+    {"en":"Let's do it.","ru":"Давай сделаем это."},
+    {"en":"I'll finish it today.","ru":"Я закончу это сегодня."},
+    {"en":"That's not a problem.","ru":"Это не проблема."},
+    {"en":"Keep me posted.","ru":"Держи меня в курсе."},
+    {"en":"I'll handle it.","ru":"Я разберусь."},
+    {"en":"We're almost done.","ru":"Мы почти закончили."},
+    {"en":"Let's stay in touch.","ru":"Остаемся на связи."},
+    {"en":"I need more time.","ru":"Мне нужно больше времени."},
+    {"en":"I'll look into it.","ru":"Я разберусь в этом."}
+  ],
+
+  "Shopping": [
+    {"en":"I'm just looking around.","ru":"Я просто смотрю."},
+    {"en":"How much is this?","ru":"Сколько это стоит?"},
+    {"en":"I'll take it.","ru":"Беру."},
+    {"en":"Can I pay by card?","ru":"Можно оплатить картой?"},
+    {"en":"Do you have this in another size?","ru":"Есть другой размер?"},
+    {"en":"Where can I find this?","ru":"Где я могу это найти?"},
+    {"en":"It's too expensive.","ru":"Это слишком дорого."},
+    {"en":"Do you have any discounts?","ru":"Есть скидки?"},
+    {"en":"Can I return this?","ru":"Можно вернуть это?"},
+    {"en":"I'm looking for something specific.","ru":"Я ищу кое-что конкретное."}
+  ],
+
+  "Car": [
+    {"en":"I need an oil change.","ru":"Мне нужна замена масла."},
+    {"en":"Can you check the brakes?","ru":"Проверьте тормоза."},
+    {"en":"My car is making a strange noise.","ru":"Машина издает странный звук."},
+    {"en":"How long will it take?","ru":"Сколько это займет?"},
+    {"en":"Is it covered under warranty?","ru":"Это покрывается гарантией?"}
+  ]
+}
+{
+  "Bank_Insurance": [
+    {"en":"I'd like to open an account.","ru":"Я хотел бы открыть счет."},
+    {"en":"What's my balance?","ru":"Какой у меня баланс?"},
+    {"en":"I lost my card.","ru":"Я потерял карту."},
+    {"en":"Can I withdraw cash here?","ru":"Можно снять наличные здесь?"},
+    {"en":"I'd like to make a deposit.","ru":"Я хочу внести деньги на счет."},
+    {"en":"My card was declined.","ru":"Моя карта была отклонена."},
+    {"en":"I need proof of insurance.","ru":"Мне нужно подтверждение страховки."},
+    {"en":"What's my deductible?","ru":"Какая у меня франшиза?"},
+    {"en":"I'd like to file a claim.","ru":"Я хочу подать страховой случай."},
+    {"en":"Is this covered?","ru":"Это покрывается страховкой?"}
+  ],
+
+  "Doctor_Pharmacy": [
+    {"en":"I don't feel well.","ru":"Я плохо себя чувствую."},
+    {"en":"I have a headache.","ru":"У меня болит голова."},
+    {"en":"I have a fever.","ru":"У меня температура."},
+    {"en":"I need to see a doctor.","ru":"Мне нужно к врачу."},
+    {"en":"Do I need an appointment?","ru":"Нужна запись?"},
+    {"en":"Where is the pharmacy?","ru":"Где аптека?"},
+    {"en":"How often should I take this?","ru":"Как часто это принимать?"},
+    {"en":"Are there any side effects?","ru":"Есть побочные эффекты?"},
+    {"en":"I need a prescription refill.","ru":"Мне нужно продлить рецепт."},
+    {"en":"I'm allergic to penicillin.","ru":"У меня аллергия на пенициллин."}
+  ],
+
+  "Housing": [
+    {"en":"I'm looking for an apartment.","ru":"Я ищу квартиру."},
+    {"en":"How much is the rent?","ru":"Сколько стоит аренда?"},
+    {"en":"Are utilities included?","ru":"Коммунальные включены?"},
+    {"en":"When can I move in?","ru":"Когда можно заселиться?"},
+    {"en":"Is there a security deposit?","ru":"Есть залог?"},
+    {"en":"The sink is leaking.","ru":"Раковина течет."},
+    {"en":"The heater isn't working.","ru":"Отопление не работает."},
+    {"en":"Can you send maintenance?","ru":"Можете прислать мастера?"},
+    {"en":"I need a copy of the lease.","ru":"Мне нужна копия договора аренды."},
+    {"en":"The power is out.","ru":"Нет электричества."}
+  ],
+
+  "Phone_Calls": [
+    {"en":"Can you hear me?","ru":"Вы меня слышите?"},
+    {"en":"The connection is bad.","ru":"Плохая связь."},
+    {"en":"I'll call you back.","ru":"Я перезвоню."},
+    {"en":"Please leave a message.","ru":"Оставьте сообщение."},
+    {"en":"Who's calling?","ru":"Кто звонит?"},
+    {"en":"Hold on for a moment.","ru":"Подождите минуту."},
+    {"en":"I think we got disconnected.","ru":"Кажется, связь прервалась."},
+    {"en":"Can you repeat that?","ru":"Можете повторить?"},
+    {"en":"Let me put you on speaker.","ru":"Включу громкую связь."},
+    {"en":"Talk to you later.","ru":"Поговорим позже."}
+  ],
+
+  "Restaurant": [
+    {"en":"Can I see the menu?","ru":"Можно меню?"},
+    {"en":"What do you recommend?","ru":"Что посоветуете?"},
+    {"en":"I'm ready to order.","ru":"Я готов заказать."},
+    {"en":"Can I get this to go?","ru":"Можно с собой?"},
+    {"en":"Can I get the check, please?","ru":"Можно счет?"},
+    {"en":"I'd like a refill.","ru":"Можно добавку напитка?"},
+    {"en":"Can I have some water?","ru":"Можно воды?"},
+    {"en":"This is delicious.","ru":"Это очень вкусно."},
+    {"en":"I'm allergic to nuts.","ru":"У меня аллергия на орехи."},
+    {"en":"Can we get a table for two?","ru":"Можно столик на двоих?"}
+  ]
+}
+{
+  "Delivery": [
+    {"en":"My order hasn't arrived yet.","ru":"Мой заказ еще не приехал."},
+    {"en":"Where is my package?","ru":"Где моя посылка?"},
+    {"en":"It says delivered, but I don't have it.","ru":"Пишет доставлено, но я не получил."},
+    {"en":"Can I get a refund?","ru":"Могу я получить возврат денег?"},
+    {"en":"The package was damaged.","ru":"Посылка была повреждена."},
+    {"en":"I'd like to return this item.","ru":"Я хочу вернуть этот товар."},
+    {"en":"Can you send a replacement?","ru":"Можете отправить замену?"},
+    {"en":"The order is incorrect.","ru":"Заказ неправильный."},
+    {"en":"When will it arrive?","ru":"Когда это прибудет?"},
+    {"en":"Thank you for your help.","ru":"Спасибо за помощь."}
+  ],
+
+  "Emergency": [
+    {"en":"I need help.","ru":"Мне нужна помощь."},
+    {"en":"Call 911.","ru":"Вызовите 911."},
+    {"en":"There's been an accident.","ru":"Произошла авария."},
+    {"en":"Is everyone okay?","ru":"Все в порядке?"},
+    {"en":"I need medical assistance.","ru":"Мне нужна медицинская помощь."},
+    {"en":"Can you call the police?","ru":"Можете вызвать полицию?"},
+    {"en":"My car broke down.","ru":"Моя машина сломалась."},
+    {"en":"I need a tow truck.","ru":"Мне нужен эвакуатор."},
+    {"en":"Nobody is hurt.","ru":"Никто не пострадал."},
+    {"en":"What happened?","ru":"Что произошло?"}
+  ],
+
+  "Travel": [
+    {"en":"Where is the airport?","ru":"Где аэропорт?"},
+    {"en":"I have a reservation.","ru":"У меня есть бронь."},
+    {"en":"What time is boarding?","ru":"Во сколько посадка?"},
+    {"en":"Where is my gate?","ru":"Где мой выход на посадку?"},
+    {"en":"Can I have a window seat?","ru":"Можно место у окна?"},
+    {"en":"How long is the flight?","ru":"Сколько длится полет?"},
+    {"en":"Where can I get a taxi?","ru":"Где можно взять такси?"},
+    {"en":"Can you help me with my luggage?","ru":"Можете помочь с багажом?"},
+    {"en":"I need a hotel room.","ru":"Мне нужен номер в отеле."},
+    {"en":"What time is check-out?","ru":"Во сколько выезд?"}
+  ],
+
+  "Friends": [
+    {"en":"Want to grab a coffee?","ru":"Хочешь выпить кофе?"},
+    {"en":"Let's hang out sometime.","ru":"Давай как-нибудь встретимся."},
+    {"en":"What are you up to?","ru":"Чем занимаешься?"},
+    {"en":"I'm free this weekend.","ru":"Я свободен на выходных."},
+    {"en":"That sounds like fun.","ru":"Звучит весело."},
+    {"en":"Count me in.","ru":"Я в деле."},
+    {"en":"Maybe next time.","ru":"Может в следующий раз."},
+    {"en":"Let's keep in touch.","ru":"Давай оставаться на связи."},
+    {"en":"Have a great day.","ru":"Хорошего дня."},
+    {"en":"Take care.","ru":"Береги себя."}
+  ],
+
+  "Everyday": [
+    {"en":"I'm tired.","ru":"Я устал."},
+    {"en":"I'm hungry.","ru":"Я голоден."},
+    {"en":"I'm thirsty.","ru":"Я хочу пить."},
+    {"en":"I have no idea.","ru":"Понятия не имею."},
+    {"en":"Give me a minute.","ru":"Дай мне минуту."},
+    {"en":"That's awesome.","ru":"Это круто."},
+    {"en":"I don't think so.","ru":"Не думаю."},
+    {"en":"Absolutely.","ru":"Абсолютно."},
+    {"en":"Not really.","ru":"Не совсем."},
+    {"en":"For sure.","ru":"Точно."}
+  ]
+}
+,
+"Detailing": [
+  {"en":"What would you like done today?","ru":"Что бы вы хотели сделать сегодня?"},
+  {"en":"Are you looking for a basic wash or a full detail?","ru":"Вам нужна обычная мойка или полный детейлинг?"},
+  {"en":"Let me take a look at the vehicle.","ru":"Дайте мне осмотреть автомобиль."},
+  {"en":"The vehicle is in pretty good shape.","ru":"Машина в довольно хорошем состоянии."},
+  {"en":"We can definitely take care of that.","ru":"Мы точно можем это сделать."},
+  {"en":"I recommend a paint correction.","ru":"Я рекомендую коррекцию лакокрасочного покрытия."},
+  {"en":"A ceramic coating will help protect the paint.","ru":"Керамика поможет защитить кузов."},
+  {"en":"This package includes interior and exterior detailing.","ru":"Этот пакет включает детейлинг салона и кузова."},
+  {"en":"The price depends on the condition of the vehicle.","ru":"Цена зависит от состояния автомобиля."},
+  {"en":"We can have it ready by this afternoon.","ru":"Мы можем закончить сегодня к обеду."},
+  {"en":"Can you vacuum the interior?","ru":"Можешь пропылесосить салон?"},
+  {"en":"The seats need shampooing.","ru":"Сиденья нужно почистить шампунем."},
+  {"en":"Don't forget the door jambs.","ru":"Не забудь про дверные проёмы."},
+  {"en":"The customer requested a deep interior cleaning.","ru":"Клиент заказал глубокую чистку салона."},
+  {"en":"Let's finish this car before lunch.","ru":"Давай закончим эту машину до обеда."},
+  {"en":"Can you remove these scratches?","ru":"Можете убрать эти царапины?"},
+  {"en":"Does it include wax?","ru":"В стоимость входит воск?"},
+  {"en":"Can you polish the paint?","ru":"Можете отполировать кузов?"},
+  {"en":"Can you apply a ceramic coating?","ru":"Можете нанести керамическое покрытие?"},
+  {"en":"When will the car be ready?","ru":"Когда машина будет готова?"}
+]
+"Detailing": [
+  {
+    "en": "I'd like a full detail.",
+    "ru": "Я хочу полный детейлинг."
+  },
+  {
+    "en": "How much do you charge for a full detail?",
+    "ru": "Сколько стоит полный детейлинг?"
+  },
+  {
+    "en": "Can you remove these scratches?",
+    "ru": "Можете убрать эти царапины?"
+  },
+  {
+    "en": "Does it include wax?",
+    "ru": "В стоимость входит воск?"
+  },
+  {
+    "en": "I'd like an interior detail.",
+    "ru": "Мне нужен детейлинг салона."
+  },
+  {
+    "en": "I'd like an exterior detail.",
+    "ru": "Мне нужен детейлинг кузова."
+  },
+  {
+    "en": "Can you shampoo the seats?",
+    "ru": "Можете почистить сиденья шампунем?"
+  },
+  {
+    "en": "The carpet needs cleaning.",
+    "ru": "Ковёр нуждается в чистке."
+  },
+  {
+    "en": "Can you remove pet hair?",
+    "ru": "Можете убрать шерсть животных?"
+  },
+  {
+    "en": "Can you polish the paint?",
+    "ru": "Можете отполировать кузов?"
+  },
+  {
+    "en": "The paint looks faded.",
+    "ru": "Краска выглядит выгоревшей."
+  },
+  {
+    "en": "Can you apply a ceramic coating?",
+    "ru": "Можете нанести керамическое покрытие?"
+  },
+  {
+    "en": "How long will it take?",
+    "ru": "Сколько времени это займет?"
+  },
+  {
+    "en": "When will the car be ready?",
+    "ru": "Когда машина будет готова?"
+  },
+  {
+    "en": "The car is very dirty.",
+    "ru": "Машина очень грязная."
+  },
+  {
+    "en": "Can you clean the engine bay?",
+    "ru": "Можете помыть подкапотное пространство?"
+  },
+  {
+    "en": "Please be careful with the wheels.",
+    "ru": "Пожалуйста, осторожнее с дисками."
+  },
+  {
+    "en": "The headlights need restoration.",
+    "ru": "Фары нуждаются в восстановлении."
+  },
+  {
+    "en": "Can you remove water spots?",
+    "ru": "Можете убрать водяные пятна?"
+  },
+  {
+    "en": "The customer is picking up the car today.",
+    "ru": "Клиент забирает машину сегодня."
